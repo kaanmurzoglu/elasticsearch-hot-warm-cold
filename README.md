@@ -4,7 +4,7 @@ First, get the script and make it executable:
 
 ### Hot to Warm Migrate
 ```
-curl -O https://raw.githubusercontent.com/knmrzl/elasticsearch-hot-warm-cold/main/hot-to-warm-migrate.sh.sh
+curl -O https://raw.githubusercontent.com/knmrzl/elasticsearch-hot-warm-cold/main/hot-to-warm-migrate.sh
 chmod +x hot-to-warm-migrate.sh
 ```
 Then run it:
@@ -14,7 +14,7 @@ Then run it:
 
 ### Warm to Cold Migrate
 ```
-curl -O https://raw.githubusercontent.com/knmrzl/elasticsearch-hot-warm-cold/main/hot-to-warm-migrate.sh.sh
+curl -O https://raw.githubusercontent.com/knmrzl/elasticsearch-hot-warm-cold/main/warm-to-cold-migrate.sh
 chmod +x hot-to-warm-migrate.sh
 ```
 
