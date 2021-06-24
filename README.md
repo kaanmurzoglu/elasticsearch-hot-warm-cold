@@ -9,7 +9,7 @@ chmod +x hot-to-warm-migrate.sh
 ```
 Then run it:
 ```
-./hot-to-warm-migrate.sh <ElasticSearch Endpoint> index-name-2021.04
+./hot-to-warm-migrate.sh <ElasticSearch Endpoint> <index-name-2021.04>
 ```
 
 ### Warm to Cold Migrate
@@ -20,5 +20,5 @@ chmod +x hot-to-warm-migrate.sh
 
 Then run it:
 ```
-./warm-to-cold-migrate.sh <ElasticSearch Endpoint> index-name-2021.04
+./warm-to-cold-migrate.sh <ElasticSearch Endpoint> <index-name-2021.04>
 ```
